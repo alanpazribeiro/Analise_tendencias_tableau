@@ -1,5 +1,5 @@
 # Analise_tendencias_tableau
-Projeto 11 - Automatizando análise de tedências de vídeos do Youtube cm Tableau para o departamento de marketing.
+Projeto 11 - Automatizando análise de tedências de vídeos do Youtube com Tableau para o departamento de marketing.
 
 Panel completo: https://public.tableau.com/views/Sterling__Draper_Anlise_YT/HistricodeTendncias?:language=pt-BR&:display_count=n&:origin=viz_share_link
 
