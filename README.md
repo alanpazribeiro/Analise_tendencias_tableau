@@ -20,9 +20,11 @@ Os engenheiros de dados prometeram criar uma tabela agregada chamada trending_by
   - videos_count — o número de vídeos na seção de tendências
 
     
-### Com que frequência o dashboard será usado: pelo menos uma vez por dia
+### Com que frequência o dashboard será usado: 
+- pelo menos uma vez por dia
 
-### Usuário do dashboard de destino: gerentes de planejamento de anúncios em vídeo
+### Usuário do dashboard de destino:
+- gerentes de planejamento de anúncios em vídeo
 
 ### Conteúdo de dados do dashboard:
    - Vídeos de tendências do passado, divididos por dia e categoria
@@ -39,11 +41,13 @@ Os engenheiros de dados prometeram criar uma tabela agregada chamada trending_by
    - Eventos, discriminados por países — valores relativos (% de eventos)
    - A correspondência entre as categorias e os países — valores absolutos (uma tabela)
 
-### Importância: todos os gráficos são igualmente importantes
+### Importância:
+- todos os gráficos são igualmente importantes
 
 ### A tabela fica armazenada no banco de dados do youtube , criado especialmente para suas necessidades
 
-### Intervalo de atualização de dados: uma vez a cada 24 horas, à meia-noite UTC
+### Intervalo de atualização de dados:
+- uma vez a cada 24 horas, à meia-noite UTC
 
 
 
