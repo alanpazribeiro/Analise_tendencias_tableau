@@ -20,21 +20,28 @@ Objetivo dos negócios: analisar o histórico de vídeos de tendências no YouTu
 
     
 A - Com que frequência o dashboard será usado: pelo menos uma vez por dia
+
 B - Usuário do dashboard de destino: gerentes de planejamento de anúncios em vídeo
+
 C - Conteúdo de dados do dashboard:
    - Vídeos de tendências do passado, divididos por dia e categoria
    - Vídeos de tendências, divididos por países
    - Uma tabela de correspondência entre categorias e países
+
 D - Parâmetros segundo os quais os dados devem ser agrupados:
    - Data e hora da tendência
    - Categoria de vídeo
    - País
+
 E - Os dados:
    - Histórico de tendências — valores absolutos com divisão por dia (dois gráficos: números absolutos e proporção percentual)
    - Eventos, discriminados por países — valores relativos (% de eventos)
    - A correspondência entre as categorias e os países — valores absolutos (uma tabela)
+
 F - Importância: todos os gráficos são igualmente importantes
+
 G - A tabela fica armazenada no banco de dados do youtube , criado especialmente para suas necessidades
+
 H - Intervalo de atualização de dados: uma vez a cada 24 horas, à meia-noite UTC
 
 
