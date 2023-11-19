@@ -2,16 +2,17 @@
 
 Panel completo: https://public.tableau.com/views/Sterling__Draper_Anlise_YT/HistricodeTendncias?:language=pt-BR&:display_count=n&:origin=viz_share_link
 
-### Objetivo do Projeto
+## Objetivo do Projeto
 Objetivo dos negócios: analisar o histórico de vídeos de tendências no YouTube via Tableau.
 
-# Bibliotecas Utilizadas
+### Bibliotecas Utilizadas
  - Pandas
  - Tableau
 
 ### Descrição dos Dados:
 
-- Fontes de dados para o dashboard: os engenheiros de dados prometeram criar uma tabela agregada chamada trending_by_time. Segue sua estrutura:
+- Fontes de dados para o dashboard:
+  os engenheiros de dados prometeram criar uma tabela agregada chamada trending_by_time. Segue sua estrutura:
   - record_id — chave primária
   - region — país / região geográfica
   - trending_date — data e hora
